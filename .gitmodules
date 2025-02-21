@@ -1,0 +1,3 @@
+[submodule "frontendreact"]
+	path = frontendreact
+	url = https://github.com/SriRam-008/FrontendReact.git
